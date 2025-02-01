@@ -1,0 +1,5 @@
+Steps 
+    p0 = a0 * b0
+    p1 = (a1 * b0) + (a0 * b1) (Half Adder required)
+    p2 = (a1 * b1) + carry
+    p3 = final carry
