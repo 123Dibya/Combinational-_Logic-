@@ -1,4 +1,4 @@
-# Combinational-_Logic-
+# Combinational - Logic
 
 This Repository contains the following circuits :-
 
@@ -9,4 +9,5 @@ This Repository contains the following circuits :-
     Multiplexers
 
 More will be added ......
+
 Feel free to contribute
