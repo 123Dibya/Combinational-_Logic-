@@ -1,0 +1,6 @@
+Time=0 a=1010 a=10 b= 5 b=0101 m=0 s=1111 s=15 cout=00
+Time=10 a=1010 a=10 b= 3 b=0011 m=1 s=0111 s= 7 cout=11
+Time=20 a=0011 a= 3 b=10 b=1010 m=1 s=1001 s= 9 cout=01
+Time=30 a=0111 a= 7 b= 1 b=0001 m=0 s=1000 s= 8 cout=01
+Time=40 a=1000 a= 8 b= 1 b=0001 m=1 s=0111 s= 7 cout=11
+Time=50 a=1111 a=15 b= 1 b=0001 m=1 s=1110 s=14 cout=10
