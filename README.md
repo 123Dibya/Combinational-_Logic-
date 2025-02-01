@@ -1,6 +1,6 @@
 # Combinational - Logic
 
-This Repository contains the following circuits :-
+## This Repository contains the following circuits :-
 
     4 bit Binary Adder-Subtractor
     Binary Multiplier 
@@ -8,6 +8,6 @@ This Repository contains the following circuits :-
     Encoders
     Multiplexers
 
-More will be added ......
+## More will be added !!
 
-Feel free to contribute
+## Feel free to contribute
