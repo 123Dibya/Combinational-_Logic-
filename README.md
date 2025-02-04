@@ -3,7 +3,8 @@
  This Repository contains the following circuits :-
 
     4 bit Binary Adder-Subtractor
-    Binary Multiplier 
+    2 bit Binary Multiplier 
+    4 * 3 Binary Multiplier 
     Decoders 
     Encoders
     Multiplexers
